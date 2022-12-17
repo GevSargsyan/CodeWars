@@ -15,8 +15,6 @@ namespace _1ic100kent
                 tver.Add(i);
             }
 
-           // tver.ForEach(x => Console.WriteLine(x));
-
             while (tver.Count > 1)
             {
                 for (int i = 0; i < tver.Count; i=i+2)
@@ -26,9 +24,6 @@ namespace _1ic100kent
                 tver.RemoveAll(x => x == 0);
             }
             Console.WriteLine(tver[0]);
-
-
-
 
         }
     }
