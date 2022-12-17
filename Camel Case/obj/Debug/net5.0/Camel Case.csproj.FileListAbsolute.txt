@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\bin\Debug\net5.0\Camel Case.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\bin\Debug\net5.0\Camel Case.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\bin\Debug\net5.0\Camel Case.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\bin\Debug\net5.0\Camel Case.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\bin\Debug\net5.0\Camel Case.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\bin\Debug\net5.0\ref\Camel Case.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\bin\Debug\net5.0\Camel Case.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\ref\Camel Case.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Camel Case\obj\Debug\net5.0\Camel Case.csproj.AssemblyReference.cache

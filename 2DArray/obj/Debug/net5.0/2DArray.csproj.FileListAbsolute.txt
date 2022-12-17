@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\bin\Debug\net5.0\2DArray.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\bin\Debug\net5.0\2DArray.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\bin\Debug\net5.0\2DArray.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\bin\Debug\net5.0\2DArray.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\bin\Debug\net5.0\2DArray.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\bin\Debug\net5.0\ref\2DArray.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\bin\Debug\net5.0\2DArray.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\ref\2DArray.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\2DArray\obj\Debug\net5.0\2DArray.genruntimeconfig.cache

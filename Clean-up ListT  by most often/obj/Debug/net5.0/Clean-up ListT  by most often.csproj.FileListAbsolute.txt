@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\bin\Debug\net5.0\Clean-up ListT  by most often.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\bin\Debug\net5.0\Clean-up ListT  by most often.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\bin\Debug\net5.0\Clean-up ListT  by most often.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\bin\Debug\net5.0\Clean-up ListT  by most often.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\bin\Debug\net5.0\Clean-up ListT  by most often.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\bin\Debug\net5.0\ref\Clean-up ListT  by most often.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\bin\Debug\net5.0\Clean-up ListT  by most often.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\ref\Clean-up ListT  by most often.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Clean-up ListT  by most often\obj\Debug\net5.0\Clean-up ListT  by most often.csproj.AssemblyReference.cache

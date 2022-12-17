@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\bin\Debug\net5.0\dataplay.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\bin\Debug\net5.0\dataplay.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\bin\Debug\net5.0\dataplay.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\bin\Debug\net5.0\dataplay.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\bin\Debug\net5.0\dataplay.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\bin\Debug\net5.0\ref\dataplay.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\bin\Debug\net5.0\dataplay.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\dataplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\dataplay.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\dataplay.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\dataplay.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\dataplay.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\ref\dataplay.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\dataplay.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\dataplay\obj\Debug\net5.0\dataplay.genruntimeconfig.cache

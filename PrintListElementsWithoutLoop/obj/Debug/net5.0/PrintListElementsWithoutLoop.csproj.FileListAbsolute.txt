@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\bin\Debug\net5.0\PrintListElementsWithoutLoop.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\bin\Debug\net5.0\PrintListElementsWithoutLoop.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\bin\Debug\net5.0\PrintListElementsWithoutLoop.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\bin\Debug\net5.0\PrintListElementsWithoutLoop.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\bin\Debug\net5.0\PrintListElementsWithoutLoop.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\bin\Debug\net5.0\ref\PrintListElementsWithoutLoop.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\bin\Debug\net5.0\PrintListElementsWithoutLoop.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\ref\PrintListElementsWithoutLoop.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\PrintListElementsWithoutLoop\obj\Debug\net5.0\PrintListElementsWithoutLoop.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\bin\Debug\net5.0\bytetoascii.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\bin\Debug\net5.0\bytetoascii.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\bin\Debug\net5.0\bytetoascii.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\bin\Debug\net5.0\bytetoascii.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\bin\Debug\net5.0\bytetoascii.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\bin\Debug\net5.0\ref\bytetoascii.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\bin\Debug\net5.0\bytetoascii.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\bytetoascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\bytetoascii.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\bytetoascii.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\bytetoascii.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\bytetoascii.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\ref\bytetoascii.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\bytetoascii.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\bytetoascii\obj\Debug\net5.0\bytetoascii.genruntimeconfig.cache

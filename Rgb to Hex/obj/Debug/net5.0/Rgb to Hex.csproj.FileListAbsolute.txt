@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\bin\Debug\net5.0\Rgb to Hex.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\bin\Debug\net5.0\Rgb to Hex.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\bin\Debug\net5.0\Rgb to Hex.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\bin\Debug\net5.0\Rgb to Hex.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\bin\Debug\net5.0\Rgb to Hex.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\bin\Debug\net5.0\ref\Rgb to Hex.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\bin\Debug\net5.0\Rgb to Hex.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\ref\Rgb to Hex.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Rgb to Hex\obj\Debug\net5.0\Rgb to Hex.genruntimeconfig.cache

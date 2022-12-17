@@ -1,0 +1,8 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\bin\Debug\ByteToImage.exe.config
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\bin\Debug\ByteToImage.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\bin\Debug\ByteToImage.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\obj\Debug\ByteToImage.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\obj\Debug\ByteToImage.csproj.SuggestedBindingRedirects.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\obj\Debug\ByteToImage.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\obj\Debug\ByteToImage.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ByteToImage\obj\Debug\ByteToImage.pdb

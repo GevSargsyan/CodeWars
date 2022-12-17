@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\bin\Debug\net5.0\QanakaiQarakusi.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\bin\Debug\net5.0\QanakaiQarakusi.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\bin\Debug\net5.0\QanakaiQarakusi.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\bin\Debug\net5.0\QanakaiQarakusi.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\bin\Debug\net5.0\QanakaiQarakusi.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\bin\Debug\net5.0\ref\QanakaiQarakusi.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\bin\Debug\net5.0\QanakaiQarakusi.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\ref\QanakaiQarakusi.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\QanakaiQarakusi\obj\Debug\net5.0\QanakaiQarakusi.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\bin\Debug\net5.0\GetUnique.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\bin\Debug\net5.0\GetUnique.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\bin\Debug\net5.0\GetUnique.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\bin\Debug\net5.0\GetUnique.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\bin\Debug\net5.0\GetUnique.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\bin\Debug\net5.0\ref\GetUnique.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\bin\Debug\net5.0\GetUnique.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\GetUnique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\GetUnique.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\GetUnique.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\GetUnique.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\GetUnique.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\ref\GetUnique.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\GetUnique.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\GetUnique\obj\Debug\net5.0\GetUnique.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\bin\Debug\net5.0\Ternary Operator.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\bin\Debug\net5.0\Ternary Operator.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\bin\Debug\net5.0\Ternary Operator.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\bin\Debug\net5.0\Ternary Operator.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\bin\Debug\net5.0\Ternary Operator.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\bin\Debug\net5.0\ref\Ternary Operator.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\bin\Debug\net5.0\Ternary Operator.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\Ternary Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\Ternary Operator.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\Ternary Operator.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\Ternary Operator.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\Ternary Operator.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\ref\Ternary Operator.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\Ternary Operator.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Ternary Operator\obj\Debug\net5.0\Ternary Operator.genruntimeconfig.cache

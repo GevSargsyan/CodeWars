@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\bin\Debug\net5.0\CountPrimeSetBits.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\bin\Debug\net5.0\CountPrimeSetBits.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\bin\Debug\net5.0\CountPrimeSetBits.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\bin\Debug\net5.0\CountPrimeSetBits.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\bin\Debug\net5.0\CountPrimeSetBits.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\bin\Debug\net5.0\ref\CountPrimeSetBits.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\bin\Debug\net5.0\CountPrimeSetBits.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\ref\CountPrimeSetBits.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\CountPrimeSetBits\obj\Debug\net5.0\CountPrimeSetBits.genruntimeconfig.cache

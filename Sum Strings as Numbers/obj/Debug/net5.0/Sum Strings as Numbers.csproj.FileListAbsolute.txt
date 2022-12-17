@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\bin\Debug\net5.0\Sum Strings as Numbers.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\bin\Debug\net5.0\Sum Strings as Numbers.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\bin\Debug\net5.0\Sum Strings as Numbers.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\bin\Debug\net5.0\Sum Strings as Numbers.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\bin\Debug\net5.0\Sum Strings as Numbers.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\bin\Debug\net5.0\ref\Sum Strings as Numbers.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\bin\Debug\net5.0\Sum Strings as Numbers.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\ref\Sum Strings as Numbers.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Sum Strings as Numbers\obj\Debug\net5.0\Sum Strings as Numbers.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\bin\Debug\net5.0\Agggregate.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\bin\Debug\net5.0\Agggregate.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\bin\Debug\net5.0\Agggregate.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\bin\Debug\net5.0\Agggregate.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\bin\Debug\net5.0\Agggregate.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\bin\Debug\net5.0\ref\Agggregate.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\bin\Debug\net5.0\Agggregate.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\ref\Agggregate.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Agggregate\obj\Debug\net5.0\Agggregate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\bin\Debug\net5.0\Detect Pangram.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\bin\Debug\net5.0\Detect Pangram.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\bin\Debug\net5.0\Detect Pangram.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\bin\Debug\net5.0\Detect Pangram.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\bin\Debug\net5.0\Detect Pangram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\bin\Debug\net5.0\ref\Detect Pangram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\bin\Debug\net5.0\Detect Pangram.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\ref\Detect Pangram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Detect Pangram\obj\Debug\net5.0\Detect Pangram.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Length Of Missing Array/1.0.0": {
+        "runtime": {
+          "Length Of Missing Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Length Of Missing Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

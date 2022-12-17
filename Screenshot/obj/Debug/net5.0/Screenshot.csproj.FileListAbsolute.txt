@@ -1,0 +1,4 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Screenshot\obj\Debug\net5.0\Screenshot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Screenshot\obj\Debug\net5.0\Screenshot.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Screenshot\obj\Debug\net5.0\Screenshot.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Screenshot\obj\Debug\net5.0\Screenshot.csproj.CoreCompileInputs.cache

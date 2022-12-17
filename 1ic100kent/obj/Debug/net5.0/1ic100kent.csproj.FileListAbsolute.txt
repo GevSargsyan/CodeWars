@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\bin\Debug\net5.0\1ic100kent.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\bin\Debug\net5.0\1ic100kent.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\bin\Debug\net5.0\1ic100kent.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\bin\Debug\net5.0\1ic100kent.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\bin\Debug\net5.0\1ic100kent.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\bin\Debug\net5.0\ref\1ic100kent.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\bin\Debug\net5.0\1ic100kent.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\ref\1ic100kent.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\1ic100kent\obj\Debug\net5.0\1ic100kent.csproj.AssemblyReference.cache

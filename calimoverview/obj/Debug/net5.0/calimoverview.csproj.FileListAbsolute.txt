@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\bin\Debug\net5.0\calimoverview.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\bin\Debug\net5.0\calimoverview.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\bin\Debug\net5.0\calimoverview.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\bin\Debug\net5.0\calimoverview.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\bin\Debug\net5.0\calimoverview.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\bin\Debug\net5.0\ref\calimoverview.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\bin\Debug\net5.0\calimoverview.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\calimoverview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\calimoverview.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\calimoverview.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\calimoverview.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\calimoverview.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\ref\calimoverview.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\calimoverview.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\calimoverview\obj\Debug\net5.0\calimoverview.genruntimeconfig.cache

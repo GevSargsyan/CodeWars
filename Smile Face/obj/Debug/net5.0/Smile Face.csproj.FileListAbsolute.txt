@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\bin\Debug\net5.0\Smile Face.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\bin\Debug\net5.0\Smile Face.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\bin\Debug\net5.0\Smile Face.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\bin\Debug\net5.0\Smile Face.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\bin\Debug\net5.0\Smile Face.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\bin\Debug\net5.0\ref\Smile Face.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\bin\Debug\net5.0\Smile Face.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\Smile Face.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\Smile Face.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\Smile Face.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\Smile Face.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\Smile Face.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\ref\Smile Face.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\Smile Face.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Smile Face\obj\Debug\net5.0\Smile Face.genruntimeconfig.cache

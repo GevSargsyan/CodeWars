@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\bin\Debug\net5.0\Krknvox.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\bin\Debug\net5.0\Krknvox.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\bin\Debug\net5.0\Krknvox.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\bin\Debug\net5.0\Krknvox.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\bin\Debug\net5.0\Krknvox.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\bin\Debug\net5.0\ref\Krknvox.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\bin\Debug\net5.0\Krknvox.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\ref\Krknvox.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Krknvox\obj\Debug\net5.0\Krknvox.genruntimeconfig.cache

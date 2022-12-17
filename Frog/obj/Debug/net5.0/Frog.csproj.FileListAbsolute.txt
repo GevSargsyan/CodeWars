@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\bin\Debug\net5.0\Frog.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\bin\Debug\net5.0\Frog.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\bin\Debug\net5.0\Frog.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\bin\Debug\net5.0\Frog.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\bin\Debug\net5.0\Frog.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\bin\Debug\net5.0\ref\Frog.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\bin\Debug\net5.0\Frog.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\ref\Frog.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Frog\obj\Debug\net5.0\Frog.csproj.AssemblyReference.cache

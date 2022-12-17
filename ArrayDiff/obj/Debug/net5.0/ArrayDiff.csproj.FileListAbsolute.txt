@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\bin\Debug\net5.0\ArrayDiff.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\bin\Debug\net5.0\ArrayDiff.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\bin\Debug\net5.0\ArrayDiff.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\bin\Debug\net5.0\ArrayDiff.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\bin\Debug\net5.0\ArrayDiff.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\bin\Debug\net5.0\ref\ArrayDiff.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\bin\Debug\net5.0\ArrayDiff.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ref\ArrayDiff.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ArrayDiff\obj\Debug\net5.0\ArrayDiff.csproj.AssemblyReference.cache

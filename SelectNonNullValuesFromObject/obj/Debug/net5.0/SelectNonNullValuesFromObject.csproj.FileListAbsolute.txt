@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\bin\Debug\net5.0\SelectNonNullValuesFromObject.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\bin\Debug\net5.0\SelectNonNullValuesFromObject.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\bin\Debug\net5.0\SelectNonNullValuesFromObject.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\bin\Debug\net5.0\SelectNonNullValuesFromObject.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\bin\Debug\net5.0\SelectNonNullValuesFromObject.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\bin\Debug\net5.0\ref\SelectNonNullValuesFromObject.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\bin\Debug\net5.0\SelectNonNullValuesFromObject.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\SelectNonNullValuesFromObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\SelectNonNullValuesFromObject.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\SelectNonNullValuesFromObject.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\SelectNonNullValuesFromObject.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\SelectNonNullValuesFromObject.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\ref\SelectNonNullValuesFromObject.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\SelectNonNullValuesFromObject.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SelectNonNullValuesFromObject\obj\Debug\net5.0\SelectNonNullValuesFromObject.genruntimeconfig.cache

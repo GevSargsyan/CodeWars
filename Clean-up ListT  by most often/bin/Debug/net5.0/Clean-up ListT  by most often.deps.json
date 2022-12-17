@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clean-up ListT  by most often/1.0.0": {
+        "runtime": {
+          "Clean-up ListT  by most often.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clean-up ListT  by most often/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

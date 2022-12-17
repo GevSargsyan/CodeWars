@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\bin\Debug\net5.0\ref\Highest Scoring Word.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\bin\Debug\net5.0\Highest Scoring Word.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\ref\Highest Scoring Word.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Highest Scoring Word\obj\Debug\net5.0\Highest Scoring Word.genruntimeconfig.cache

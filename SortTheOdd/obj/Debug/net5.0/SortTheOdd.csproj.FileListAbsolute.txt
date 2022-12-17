@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\bin\Debug\net5.0\SortTheOdd.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\bin\Debug\net5.0\SortTheOdd.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\bin\Debug\net5.0\SortTheOdd.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\bin\Debug\net5.0\SortTheOdd.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\bin\Debug\net5.0\SortTheOdd.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\bin\Debug\net5.0\ref\SortTheOdd.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\bin\Debug\net5.0\SortTheOdd.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\SortTheOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\SortTheOdd.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\SortTheOdd.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\SortTheOdd.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\SortTheOdd.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\ref\SortTheOdd.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\SortTheOdd.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\SortTheOdd\obj\Debug\net5.0\SortTheOdd.genruntimeconfig.cache

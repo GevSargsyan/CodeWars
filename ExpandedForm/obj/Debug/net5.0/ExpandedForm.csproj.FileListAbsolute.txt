@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\bin\Debug\net5.0\ExpandedForm.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\bin\Debug\net5.0\ExpandedForm.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\bin\Debug\net5.0\ExpandedForm.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\bin\Debug\net5.0\ExpandedForm.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\bin\Debug\net5.0\ExpandedForm.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\bin\Debug\net5.0\ref\ExpandedForm.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\bin\Debug\net5.0\ExpandedForm.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ref\ExpandedForm.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExpandedForm\obj\Debug\net5.0\ExpandedForm.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\bin\Debug\net5.0\Morze.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\bin\Debug\net5.0\Morze.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\bin\Debug\net5.0\Morze.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\bin\Debug\net5.0\Morze.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\bin\Debug\net5.0\Morze.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\bin\Debug\net5.0\ref\Morze.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\bin\Debug\net5.0\Morze.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\ref\Morze.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Morze\obj\Debug\net5.0\Morze.genruntimeconfig.cache

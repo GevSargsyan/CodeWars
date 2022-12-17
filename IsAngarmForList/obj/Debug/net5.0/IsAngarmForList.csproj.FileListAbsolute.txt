@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\bin\Debug\net5.0\IsAngarmForList.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\bin\Debug\net5.0\IsAngarmForList.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\bin\Debug\net5.0\IsAngarmForList.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\bin\Debug\net5.0\IsAngarmForList.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\bin\Debug\net5.0\IsAngarmForList.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\bin\Debug\net5.0\ref\IsAngarmForList.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\bin\Debug\net5.0\IsAngarmForList.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\ref\IsAngarmForList.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAngarmForList\obj\Debug\net5.0\IsAngarmForList.csproj.AssemblyReference.cache

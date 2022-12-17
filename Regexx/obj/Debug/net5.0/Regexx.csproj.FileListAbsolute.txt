@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\bin\Debug\net5.0\Regexx.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\bin\Debug\net5.0\Regexx.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\bin\Debug\net5.0\Regexx.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\bin\Debug\net5.0\Regexx.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\bin\Debug\net5.0\Regexx.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\bin\Debug\net5.0\ref\Regexx.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\bin\Debug\net5.0\Regexx.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\Regexx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\Regexx.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\Regexx.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\Regexx.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\Regexx.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\ref\Regexx.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\Regexx.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Regexx\obj\Debug\net5.0\Regexx.genruntimeconfig.cache

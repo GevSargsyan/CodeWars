@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\bin\Debug\net5.0\Orderr.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\bin\Debug\net5.0\Orderr.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\bin\Debug\net5.0\Orderr.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\bin\Debug\net5.0\Orderr.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\bin\Debug\net5.0\Orderr.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\bin\Debug\net5.0\ref\Orderr.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\bin\Debug\net5.0\Orderr.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\Orderr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\Orderr.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\Orderr.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\Orderr.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\Orderr.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\ref\Orderr.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\Orderr.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Orderr\obj\Debug\net5.0\Orderr.genruntimeconfig.cache

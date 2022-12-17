@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\bin\Debug\net5.0\Word a10n (abbreviation).exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\bin\Debug\net5.0\Word a10n (abbreviation).deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\bin\Debug\net5.0\Word a10n (abbreviation).runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\bin\Debug\net5.0\Word a10n (abbreviation).runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\bin\Debug\net5.0\Word a10n (abbreviation).dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\bin\Debug\net5.0\ref\Word a10n (abbreviation).dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\bin\Debug\net5.0\Word a10n (abbreviation).pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\ref\Word a10n (abbreviation).dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Word a10n (abbreviation)\obj\Debug\net5.0\Word a10n (abbreviation).csproj.AssemblyReference.cache

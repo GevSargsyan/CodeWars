@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\bin\Debug\net5.0\IsAnagram.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\bin\Debug\net5.0\IsAnagram.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\bin\Debug\net5.0\IsAnagram.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\bin\Debug\net5.0\IsAnagram.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\bin\Debug\net5.0\IsAnagram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\bin\Debug\net5.0\ref\IsAnagram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\bin\Debug\net5.0\IsAnagram.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\ref\IsAnagram.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\IsAnagram\obj\Debug\net5.0\IsAnagram.csproj.AssemblyReference.cache

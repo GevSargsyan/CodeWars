@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\bin\Debug\net5.0\maskify.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\bin\Debug\net5.0\maskify.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\bin\Debug\net5.0\maskify.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\bin\Debug\net5.0\maskify.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\bin\Debug\net5.0\maskify.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\bin\Debug\net5.0\ref\maskify.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\bin\Debug\net5.0\maskify.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\ref\maskify.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\maskify\obj\Debug\net5.0\maskify.genruntimeconfig.cache

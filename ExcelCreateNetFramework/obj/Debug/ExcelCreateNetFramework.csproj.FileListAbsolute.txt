@@ -1,0 +1,8 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\bin\Debug\ExcelCreateNetFramework.exe.config
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\bin\Debug\ExcelCreateNetFramework.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\bin\Debug\ExcelCreateNetFramework.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\obj\Debug\ExcelCreateNetFramework.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\obj\Debug\ExcelCreateNetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\obj\Debug\ExcelCreateNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\obj\Debug\ExcelCreateNetFramework.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ExcelCreateNetFramework\obj\Debug\ExcelCreateNetFramework.pdb

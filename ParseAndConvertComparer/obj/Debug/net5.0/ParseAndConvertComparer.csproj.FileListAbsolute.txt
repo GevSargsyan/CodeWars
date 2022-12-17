@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\bin\Debug\net5.0\ParseAndConvertComparer.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\bin\Debug\net5.0\ParseAndConvertComparer.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\bin\Debug\net5.0\ParseAndConvertComparer.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\bin\Debug\net5.0\ParseAndConvertComparer.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\bin\Debug\net5.0\ParseAndConvertComparer.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\bin\Debug\net5.0\ref\ParseAndConvertComparer.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\bin\Debug\net5.0\ParseAndConvertComparer.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ParseAndConvertComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ParseAndConvertComparer.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ParseAndConvertComparer.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ParseAndConvertComparer.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ParseAndConvertComparer.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ref\ParseAndConvertComparer.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ParseAndConvertComparer.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\ParseAndConvertComparer\obj\Debug\net5.0\ParseAndConvertComparer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\bin\Debug\net5.0\comma symbol.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\bin\Debug\net5.0\comma symbol.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\bin\Debug\net5.0\comma symbol.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\bin\Debug\net5.0\comma symbol.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\bin\Debug\net5.0\comma symbol.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\bin\Debug\net5.0\ref\comma symbol.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\bin\Debug\net5.0\comma symbol.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\ref\comma symbol.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\comma symbol\obj\Debug\net5.0\comma symbol.csproj.AssemblyReference.cache

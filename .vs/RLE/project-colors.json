@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aec1fdc4-c4d9-4b73-a09f-aec143a89740": {
+      "ProjectGuid": "aec1fdc4-c4d9-4b73-a09f-aec143a89740",
+      "DisplayName": "RLE",
+      "ColorIndex": 0
+    },
+    "39594954-215f-45c2-a15f-3a107b981c15": {
+      "ProjectGuid": "39594954-215f-45c2-a15f-3a107b981c15",
+      "DisplayName": "maskify",
+      "ColorIndex": 1
+    },
+    "e0ab21f0-5943-4b81-aa8d-936cdbfc54f1": {
+      "ProjectGuid": "e0ab21f0-5943-4b81-aa8d-936cdbfc54f1",
+      "DisplayName": "Morze",
+      "ColorIndex": 2
+    },
+    "03bbca10-1d0d-4100-967f-c29480b33f57": {
+      "ProjectGuid": "03bbca10-1d0d-4100-967f-c29480b33f57",
+      "DisplayName": "AddBinary",
+      "ColorIndex": 3
+    },
+    "02bf1eb1-a5ee-4eeb-8608-0229a2fed63e": {
+      "ProjectGuid": "02bf1eb1-a5ee-4eeb-8608-0229a2fed63e",
+      "DisplayName": "Human Readable Time",
+      "ColorIndex": 4
+    },
+    "e034a6a0-c665-4418-a864-c666aee5d3f9": {
+      "ProjectGuid": "e034a6a0-c665-4418-a864-c666aee5d3f9",
+      "DisplayName": "100",
+      "ColorIndex": 5
+    },
+    "b0f8310d-af4c-4b72-834b-96f050586613": {
+      "ProjectGuid": "b0f8310d-af4c-4b72-834b-96f050586613",
+      "DisplayName": "dataplay",
+      "ColorIndex": 6
+    },
+    "20a99a75-d1b5-43ac-9a80-a4b3fdb1d2e2": {
+      "ProjectGuid": "20a99a75-d1b5-43ac-9a80-a4b3fdb1d2e2",
+      "DisplayName": "Krknvox",
+      "ColorIndex": 7
+    },
+    "86f4b79a-4ae5-4b9d-a7ba-4105c32bd455": {
+      "ProjectGuid": "86f4b79a-4ae5-4b9d-a7ba-4105c32bd455",
+      "DisplayName": "Tasks",
+      "ColorIndex": 8
+    },
+    "bfed2c89-0ad5-401d-b269-7c0ce4a081a1": {
+      "ProjectGuid": "bfed2c89-0ad5-401d-b269-7c0ce4a081a1",
+      "DisplayName": "Strings",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "600ae84f-fef4-432b-8fb2-98484ba2b42d": {
+      "ProjectGuid": "600ae84f-fef4-432b-8fb2-98484ba2b42d",
+      "DisplayName": "Select",
+      "ColorIndex": 10
+    },
+    "cbf75e7d-72ae-467d-b363-60028868220e": {
+      "ProjectGuid": "cbf75e7d-72ae-467d-b363-60028868220e",
+      "DisplayName": "2DArray",
+      "ColorIndex": 11
+    },
+    "4e7e3244-fb54-4580-91dd-a6ecc54fe6bc": {
+      "ProjectGuid": "4e7e3244-fb54-4580-91dd-a6ecc54fe6bc",
+      "DisplayName": "Frog",
+      "ColorIndex": 12
+    },
+    "ef959c70-17aa-4fd5-b726-7cf4638e3f25": {
+      "ProjectGuid": "ef959c70-17aa-4fd5-b726-7cf4638e3f25",
+      "DisplayName": "DigitDifferenceSort",
+      "ColorIndex": 13
+    },
+    "faadede4-c708-411a-913f-b5366ee59a5b": {
+      "ProjectGuid": "faadede4-c708-411a-913f-b5366ee59a5b",
+      "DisplayName": "Word a10n (abbreviation)",
+      "ColorIndex": 14
+    },
+    "1ce2b9c5-10da-4909-bafe-2f9ac5a1d43f": {
+      "ProjectGuid": "1ce2b9c5-10da-4909-bafe-2f9ac5a1d43f",
+      "DisplayName": "AllCharIndexesInString",
+      "ColorIndex": 15
+    },
+    "d7d2421e-bcc8-4b1d-9cf1-9634274c3f81": {
+      "ProjectGuid": "d7d2421e-bcc8-4b1d-9cf1-9634274c3f81",
+      "DisplayName": "Detect Pangram",
+      "ColorIndex": 0
+    },
+    "c202f869-3fbd-43d5-9700-b658d0f87334": {
+      "ProjectGuid": "c202f869-3fbd-43d5-9700-b658d0f87334",
+      "DisplayName": "Orderr",
+      "ColorIndex": 1
+    },
+    "8986f523-323e-4318-add7-c38b4a5df21e": {
+      "ProjectGuid": "8986f523-323e-4318-add7-c38b4a5df21e",
+      "DisplayName": "SortTheOdd",
+      "ColorIndex": 2
+    },
+    "03f65d8e-b98f-4d85-9044-1ce23e148f25": {
+      "ProjectGuid": "03f65d8e-b98f-4d85-9044-1ce23e148f25",
+      "DisplayName": "Highest Scoring Word",
+      "ColorIndex": 3
+    },
+    "22cd9e0f-618b-4cd6-a3b1-49d040835bf4": {
+      "ProjectGuid": "22cd9e0f-618b-4cd6-a3b1-49d040835bf4",
+      "DisplayName": "Camel Case",
+      "ColorIndex": 4
+    },
+    "847f689b-5f6a-42f3-a9af-57d677d7c1e8": {
+      "ProjectGuid": "847f689b-5f6a-42f3-a9af-57d677d7c1e8",
+      "DisplayName": "bytetoascii",
+      "ColorIndex": 5
+    },
+    "55b1e986-bb21-4a93-a46e-946f1f7fb390": {
+      "ProjectGuid": "55b1e986-bb21-4a93-a46e-946f1f7fb390",
+      "DisplayName": "IsAnagram",
+      "ColorIndex": 6
+    },
+    "413ce5f2-8378-4ac8-b087-7b9e3e35e97a": {
+      "ProjectGuid": "413ce5f2-8378-4ac8-b087-7b9e3e35e97a",
+      "DisplayName": "CountPrimeSetBits",
+      "ColorIndex": 7
+    },
+    "a8a00542-34ab-450c-828a-6e54f7449400": {
+      "ProjectGuid": "a8a00542-34ab-450c-828a-6e54f7449400",
+      "DisplayName": "Smile Face",
+      "ColorIndex": 8
+    },
+    "b231fb0c-ce44-4c4b-b42a-519c68a3a738": {
+      "ProjectGuid": "b231fb0c-ce44-4c4b-b42a-519c68a3a738",
+      "DisplayName": "Rgb to Hex",
+      "ColorIndex": 9
+    },
+    "707d841c-24f3-483c-8f55-9dc31800aa2c": {
+      "ProjectGuid": "707d841c-24f3-483c-8f55-9dc31800aa2c",
+      "DisplayName": "Merged String Checker",
+      "ColorIndex": 10
+    },
+    "ccb53f00-7dcb-41bc-b7be-1a6ee7ce456f": {
+      "ProjectGuid": "ccb53f00-7dcb-41bc-b7be-1a6ee7ce456f",
+      "DisplayName": "IsAngarmForList",
+      "ColorIndex": 11
+    },
+    "33a96134-2381-49bf-834e-d69ae6271567": {
+      "ProjectGuid": "33a96134-2381-49bf-834e-d69ae6271567",
+      "DisplayName": "Square",
+      "ColorIndex": 12
+    },
+    "e89b22a0-f55f-447b-a1b0-97c7494a96bd": {
+      "ProjectGuid": "e89b22a0-f55f-447b-a1b0-97c7494a96bd",
+      "DisplayName": "Fibonacci N",
+      "ColorIndex": 13
+    },
+    "c20fa701-ff8a-4896-abb6-2f3a77246c88": {
+      "ProjectGuid": "c20fa701-ff8a-4896-abb6-2f3a77246c88",
+      "DisplayName": "ByteToImage",
+      "ColorIndex": 14
+    },
+    "688f30c2-dc6a-4283-9c9a-6ee2b9624812": {
+      "ProjectGuid": "688f30c2-dc6a-4283-9c9a-6ee2b9624812",
+      "DisplayName": "Fibonacci",
+      "ColorIndex": 15
+    },
+    "34a8fb84-f720-4382-80a3-1a92348d011e": {
+      "ProjectGuid": "34a8fb84-f720-4382-80a3-1a92348d011e",
+      "DisplayName": "Sum Strings as Numbers",
+      "ColorIndex": 0
+    },
+    "d852ed2a-f29c-4ee8-a998-f0fb2435fe01": {
+      "ProjectGuid": "d852ed2a-f29c-4ee8-a998-f0fb2435fe01",
+      "DisplayName": "ParseAndConvertComparer",
+      "ColorIndex": 1
+    },
+    "c61a8f73-0311-4598-887a-019ed0e52016": {
+      "ProjectGuid": "c61a8f73-0311-4598-887a-019ed0e52016",
+      "DisplayName": "Lambdas",
+      "ColorIndex": 2
+    },
+    "357e482a-2c4a-4133-940d-5944a6f1329f": {
+      "ProjectGuid": "357e482a-2c4a-4133-940d-5944a6f1329f",
+      "DisplayName": "calimoverview",
+      "ColorIndex": 3
+    },
+    "899e9dc5-f104-442a-8546-8b770537a07a": {
+      "ProjectGuid": "899e9dc5-f104-442a-8546-8b770537a07a",
+      "DisplayName": "comma symbol",
+      "ColorIndex": 4
+    },
+    "0daf958f-61e4-45a0-9103-1808f0669b84": {
+      "ProjectGuid": "0daf958f-61e4-45a0-9103-1808f0669b84",
+      "DisplayName": "Testing-1-2-3",
+      "ColorIndex": 5
+    },
+    "4a2e81a4-fa38-4b33-96be-e91490bd2d8a": {
+      "ProjectGuid": "4a2e81a4-fa38-4b33-96be-e91490bd2d8a",
+      "DisplayName": "ExpandedForm",
+      "ColorIndex": 6
+    },
+    "b14e3a03-3a66-4e90-833e-4245ec5eb5f4": {
+      "ProjectGuid": "b14e3a03-3a66-4e90-833e-4245ec5eb5f4",
+      "DisplayName": "GetUnique",
+      "ColorIndex": 7
+    },
+    "bd31e82a-341c-41cd-9186-09135d1a37a8": {
+      "ProjectGuid": "bd31e82a-341c-41cd-9186-09135d1a37a8",
+      "DisplayName": "PrintListElementsWithoutLoop",
+      "ColorIndex": 8
+    },
+    "f1bb9b9c-05ca-46bf-902f-3069837fed32": {
+      "ProjectGuid": "f1bb9b9c-05ca-46bf-902f-3069837fed32",
+      "DisplayName": "QanakaiQarakusi",
+      "ColorIndex": 9
+    },
+    "d39a00e9-a948-4759-b91b-0fc202179698": {
+      "ProjectGuid": "d39a00e9-a948-4759-b91b-0fc202179698",
+      "DisplayName": "Permutations",
+      "ColorIndex": 10
+    },
+    "649f6fad-579c-4e9a-be0c-003550ed59e5": {
+      "ProjectGuid": "649f6fad-579c-4e9a-be0c-003550ed59e5",
+      "DisplayName": "Ternary Operator",
+      "ColorIndex": 11
+    },
+    "d4582752-e519-4d5c-9a2f-929b393aa456": {
+      "ProjectGuid": "d4582752-e519-4d5c-9a2f-929b393aa456",
+      "DisplayName": "ROT13",
+      "ColorIndex": 12
+    },
+    "ab457c85-0a37-4ce4-90c8-7bf45c7201e5": {
+      "ProjectGuid": "ab457c85-0a37-4ce4-90c8-7bf45c7201e5",
+      "DisplayName": "Unique In Order",
+      "ColorIndex": 13
+    },
+    "fe201fd4-8143-4459-9efe-d8301a7474fe": {
+      "ProjectGuid": "fe201fd4-8143-4459-9efe-d8301a7474fe",
+      "DisplayName": "ArrayDiff",
+      "ColorIndex": 14
+    },
+    "49451ad8-beb8-47e9-b39b-65aee9fbaf3b": {
+      "ProjectGuid": "49451ad8-beb8-47e9-b39b-65aee9fbaf3b",
+      "DisplayName": "Length Of Missing Array",
+      "ColorIndex": 15
+    },
+    "bfa84703-97c8-4e60-be79-c1e667a0f55e": {
+      "ProjectGuid": "bfa84703-97c8-4e60-be79-c1e667a0f55e",
+      "DisplayName": "Clean-up ListT  by most often",
+      "ColorIndex": 0
+    },
+    "b20981ce-19f7-4ff1-bdca-940fd9cb7083": {
+      "ProjectGuid": "b20981ce-19f7-4ff1-bdca-940fd9cb7083",
+      "DisplayName": "Regexx",
+      "ColorIndex": 1
+    },
+    "21714f14-34f5-4e99-84bc-3a6c47620961": {
+      "ProjectGuid": "21714f14-34f5-4e99-84bc-3a6c47620961",
+      "DisplayName": "ExcelChartCreate",
+      "ColorIndex": 2
+    },
+    "82064a44-af09-48ed-ac5a-33ba3d9e0598": {
+      "ProjectGuid": "82064a44-af09-48ed-ac5a-33ba3d9e0598",
+      "DisplayName": "ExcelCreateNetFramework",
+      "ColorIndex": 3
+    },
+    "cc1ab41d-450b-4750-bf37-2172ce71a7db": {
+      "ProjectGuid": "cc1ab41d-450b-4750-bf37-2172ce71a7db",
+      "DisplayName": "ExcelChartWithDevExpress",
+      "ColorIndex": 4
+    },
+    "abe09761-7324-4500-9008-8a43b6657334": {
+      "ProjectGuid": "abe09761-7324-4500-9008-8a43b6657334",
+      "DisplayName": "ExcelDevexpress",
+      "ColorIndex": 5
+    },
+    "256f2345-4801-4ca9-9394-6c71056a3f15": {
+      "ProjectGuid": "256f2345-4801-4ca9-9394-6c71056a3f15",
+      "DisplayName": "ExcelDevexpress1",
+      "ColorIndex": 6
+    },
+    "925adc80-cc05-48d7-932e-3367321602e2": {
+      "ProjectGuid": "925adc80-cc05-48d7-932e-3367321602e2",
+      "DisplayName": "DevExpressExcel",
+      "ColorIndex": 7
+    },
+    "ec02a36d-6576-41b6-b70f-65725b2ea611": {
+      "ProjectGuid": "ec02a36d-6576-41b6-b70f-65725b2ea611",
+      "DisplayName": "SelectNonNullValuesFromObject",
+      "ColorIndex": 8
+    },
+    "9c2d61d2-fe28-4ad0-97d6-d6aae8f11e59": {
+      "ProjectGuid": "9c2d61d2-fe28-4ad0-97d6-d6aae8f11e59",
+      "DisplayName": "1ic100kent",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

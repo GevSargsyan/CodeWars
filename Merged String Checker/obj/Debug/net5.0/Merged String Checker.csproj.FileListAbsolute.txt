@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\bin\Debug\net5.0\Merged String Checker.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\bin\Debug\net5.0\Merged String Checker.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\bin\Debug\net5.0\Merged String Checker.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\bin\Debug\net5.0\Merged String Checker.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\bin\Debug\net5.0\Merged String Checker.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\bin\Debug\net5.0\ref\Merged String Checker.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\bin\Debug\net5.0\Merged String Checker.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\Merged String Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\Merged String Checker.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\Merged String Checker.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\Merged String Checker.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\Merged String Checker.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\ref\Merged String Checker.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\Merged String Checker.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Merged String Checker\obj\Debug\net5.0\Merged String Checker.genruntimeconfig.cache

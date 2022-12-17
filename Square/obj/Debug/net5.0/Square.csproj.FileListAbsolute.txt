@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\bin\Debug\net5.0\Square.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\bin\Debug\net5.0\Square.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\bin\Debug\net5.0\Square.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\bin\Debug\net5.0\Square.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\bin\Debug\net5.0\Square.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\bin\Debug\net5.0\ref\Square.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\bin\Debug\net5.0\Square.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\ref\Square.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Square\obj\Debug\net5.0\Square.csproj.AssemblyReference.cache

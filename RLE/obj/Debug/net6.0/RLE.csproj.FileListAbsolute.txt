@@ -1,0 +1,15 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\bin\Debug\net6.0\RLE.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\bin\Debug\net6.0\RLE.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\bin\Debug\net6.0\RLE.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\bin\Debug\net6.0\RLE.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\bin\Debug\net6.0\ref\RLE.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\bin\Debug\net6.0\RLE.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.csproj.AssemblyReference.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\ref\RLE.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\RLE\obj\Debug\net6.0\RLE.genruntimeconfig.cache

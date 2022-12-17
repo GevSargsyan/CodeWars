@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\bin\Debug\net5.0\AllCharIndexesInString.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\bin\Debug\net5.0\AllCharIndexesInString.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\bin\Debug\net5.0\AllCharIndexesInString.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\bin\Debug\net5.0\AllCharIndexesInString.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\bin\Debug\net5.0\AllCharIndexesInString.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\bin\Debug\net5.0\ref\AllCharIndexesInString.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\bin\Debug\net5.0\AllCharIndexesInString.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\ref\AllCharIndexesInString.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\AllCharIndexesInString\obj\Debug\net5.0\AllCharIndexesInString.csproj.AssemblyReference.cache

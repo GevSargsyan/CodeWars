@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\bin\Debug\net5.0\DigitDifferenceSort.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\bin\Debug\net5.0\DigitDifferenceSort.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\bin\Debug\net5.0\DigitDifferenceSort.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\bin\Debug\net5.0\DigitDifferenceSort.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\bin\Debug\net5.0\DigitDifferenceSort.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\bin\Debug\net5.0\ref\DigitDifferenceSort.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\bin\Debug\net5.0\DigitDifferenceSort.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\ref\DigitDifferenceSort.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\DigitDifferenceSort\obj\Debug\net5.0\DigitDifferenceSort.csproj.AssemblyReference.cache

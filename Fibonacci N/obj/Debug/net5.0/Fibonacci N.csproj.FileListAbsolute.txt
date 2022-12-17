@@ -1,0 +1,16 @@
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\bin\Debug\net5.0\Fibonacci N.exe
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\bin\Debug\net5.0\Fibonacci N.deps.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\bin\Debug\net5.0\Fibonacci N.runtimeconfig.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\bin\Debug\net5.0\Fibonacci N.runtimeconfig.dev.json
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\bin\Debug\net5.0\Fibonacci N.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\bin\Debug\net5.0\ref\Fibonacci N.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\bin\Debug\net5.0\Fibonacci N.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.AssemblyInfoInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.AssemblyInfo.cs
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.csproj.CoreCompileInputs.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\ref\Fibonacci N.dll
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.pdb
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.genruntimeconfig.cache
+C:\Users\gevorg.k.sargsyan\source\repos\RLE\Fibonacci N\obj\Debug\net5.0\Fibonacci N.csproj.AssemblyReference.cache
