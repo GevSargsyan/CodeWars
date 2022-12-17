@@ -24,7 +24,6 @@ namespace _1ic100kent
                 tver.RemoveAll(x => x == 0);
             }
             Console.WriteLine(tver[0]);
-
         }
     }
 }
